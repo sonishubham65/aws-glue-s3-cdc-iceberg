@@ -1,0 +1,2 @@
+{"product_id":"P101","sku":"S24-ULTRA","price":1100,"stock":25,"updated_at":"2026-07-01T12:00:00Z","cdc_timestamp":"2026-07-01T12:00:01Z","op":"D"}
+{"product_id":"P101","sku":"S24-ULTRA","price":1200,"stock":25,"updated_at":"2026-07-01T12:00:00Z","cdc_timestamp":"2026-07-01T12:00:02Z","op":"U"}
