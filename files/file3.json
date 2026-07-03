@@ -1,0 +1,7 @@
+{"product_id":"P101","sku":"S24-ULTRA","price":1100,"stock":25,"updated_at":"2026-07-01T12:00:00Z","cdc_timestamp":"2026-07-01T12:00:01Z","op":"U"}
+{"product_id":"P101","sku":"S24-ULTRA","price":1200,"stock":25,"updated_at":"2026-07-01T12:00:00Z","cdc_timestamp":"2026-07-01T12:00:02Z","op":"U"}
+{"product_id":"P101","sku":"S24-ULTRA","price":1300,"stock":25,"updated_at":"2026-07-01T12:00:00Z","cdc_timestamp":"2026-07-01T12:00:03Z","op":"U"}
+{"product_id":"P101","sku":"S24-ULTRA","price":1500,"stock":25,"updated_at":"2026-07-01T12:00:00Z","cdc_timestamp":"2026-07-01T12:00:05Z","op":"U"}
+{"product_id":"P101","sku":"S24-ULTRA","price":1400,"stock":25,"updated_at":"2026-07-01T12:00:00Z","cdc_timestamp":"2026-07-01T12:00:04Z","op":"U"}
+{"product_id":"P102","sku":"PIXEL10","price":800,"stock":0,"updated_at":"2026-07-01T12:00:02Z","cdc_timestamp":"2026-07-01T12:00:03Z","op":"D"}
+{"product_id":"P105","sku":"ONEPLUS15","price":850,"stock":60,"updated_at":"2026-07-01T12:00:04Z","cdc_timestamp":"2026-07-01T12:00:05Z","op":"I"}
